@@ -1,0 +1,21 @@
+.el-table {
+    td {
+        padding: 6px 0;
+        .seprator {
+            color: #aaa;
+            padding: 0 5px;
+        }
+    }
+}
+
+.el-button--small {
+    font-size: 13px;
+}
+
+.el-loading-mask {
+    z-index: 1000;
+}
+
+.el-table .cell {
+    text-align: left;
+}
